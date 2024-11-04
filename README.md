@@ -22,14 +22,14 @@ bash
 
 ## Configuration
 Create or edit a settings.json file in the same directory as the script. The file should have the following structure:
-
+```
 {
     "Range": 1500,
     "Size": [105, 105],
     "Folders": ["backgrounds", "body", "etc", "hats", "additional"],
     "TargetFolder": "ready"
 }
-
+```
 ## Explanation of Settings:
 1. Range: The number of images that will be generated.
 2. Size: The width and height of the images as an array (e.g., [105, 105]).
