@@ -22,7 +22,7 @@ bash
 
 ## Configuration
 Create or edit a settings.json file in the same directory as the script. The file should have the following structure:
-```
+```json
 {
     "Range": 1500,
     "Size": [105, 105],
